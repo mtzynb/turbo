@@ -8,6 +8,7 @@ body {
   font-size: 13px;
 }
 #editor {
+  visibility: hidden;
   background-color: #FFFFFF;
   padding: 0;
   margin: 0;
